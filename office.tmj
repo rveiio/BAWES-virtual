@@ -1155,8 +1155,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":17,
          "firstgid":2956,
-         "source":"tilesets\/Room builder.tsx"
+         "image":"tilesets\/Room_Builder_free_32x32.png",
+         "imageheight":736,
+         "imagewidth":544,
+         "margin":0,
+         "name":"Room builder",
+         "spacing":0,
+         "tilecount":391,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
