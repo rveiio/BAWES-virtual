@@ -1269,8 +1269,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":6367,
-         "source":"tilesets\/2 Room Builder.tsx"
+         "image":"tilesets\/Room_Builder_Office_32x32.png",
+         "imageheight":448,
+         "imagewidth":512,
+         "margin":0,
+         "name":"2 Room Builder",
+         "spacing":0,
+         "tilecount":224,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
