@@ -1233,8 +1233,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":37,
          "firstgid":7607,
-         "source":"tilesets\/Building.tsx"
+         "image":"tilesets\/snow_and_stone_by_magiscarf_dcjgz10_scaled_2x_pngcrushed.png",
+         "imageheight":608,
+         "imagewidth":1184,
+         "margin":0,
+         "name":"Building",
+         "spacing":0,
+         "tilecount":703,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
