@@ -3834,8 +3834,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":11022,
-         "source":"tilesets\/basement.tsx"
+         "image":"tilesets\/14_Basement_Black_Shadow_32x32.png",
+         "imageheight":1600,
+         "imagewidth":512,
+         "margin":0,
+         "name":"basement",
+         "spacing":0,
+         "tilecount":800,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
