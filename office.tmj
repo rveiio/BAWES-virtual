@@ -2868,11 +2868,6 @@
                          "name":"chatName",
                          "type":"string",
                          "value":"Break Room 1"
-                        }, 
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2911,7 +2906,7 @@
                         {
                          "name":"playAudio",
                          "type":"file",
-                         "value":"https:\/\/drive.google.com\/file\/d\/1HWvktS8oayqOH15LwHD4AgQG1ijz3am4\/view?usp=sharing"
+                         "value":"public\/Piano.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
