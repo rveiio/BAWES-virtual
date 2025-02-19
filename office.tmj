@@ -2823,6 +2823,11 @@
                  "name":"ChatZone",
                  "properties":[
                         {
+                         "name":"areaChat",
+                         "type":"string",
+                         "value":"Break Room 1"
+                        }, 
+                        {
                          "name":"chatDescription",
                          "type":"string",
                          "value":"chat with your coworkers here while you're on your break"
@@ -2831,6 +2836,11 @@
                          "name":"chatName",
                          "type":"string",
                          "value":"Break Room 1"
+                        }, 
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2841,9 +2851,14 @@
                 }, 
                 {
                  "height":255.333,
-                 "id":31,
+                 "id":32,
                  "name":"ChatZone",
                  "properties":[
+                        {
+                         "name":"areaChat",
+                         "type":"string",
+                         "value":"Break Room 1"
+                        }, 
                         {
                          "name":"chatDescription",
                          "type":"string",
@@ -2852,14 +2867,19 @@
                         {
                          "name":"chatName",
                          "type":"string",
-                         "value":"Break Room 2"
+                         "value":"Break Room 1"
+                        }, 
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":255.333,
-                 "x":2336.06077272727,
-                 "y":1665.10622727273
+                 "x":2336.3335,
+                 "y":1664.3335
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3612,7 +3632,7 @@
          "y":0
         }],
  "nextlayerid":86,
- "nextobjectid":32,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
