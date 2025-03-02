@@ -3776,15 +3776,6 @@
                         }]
                 }, 
                 {
-                 "id":8,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/excalidraw.com\/#room=451719a828ba51668ac9,sXAdzL7CmqiYOUhXloKYXA"
-                        }]
-                }, 
-                {
                  "id":9,
                  "properties":[
                         {
