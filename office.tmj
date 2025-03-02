@@ -274,6 +274,12 @@
          "id":87,
          "name":"web",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/excalidraw.com\/#room=451719a828ba51668ac9,sXAdzL7CmqiYOUhXloKYXA"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":128,
