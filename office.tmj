@@ -1402,6 +1402,11 @@
                          "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ?si=u6tDZMC2Iq11GuQW"
                         }, 
                         {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"autoplay"
+                        }, 
+                        {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
