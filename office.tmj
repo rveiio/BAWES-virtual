@@ -3132,14 +3132,9 @@
                          "name":"message",
                          "type":"string",
                          "value":"Welcome to the Design Section!\n\nHere, you can:\n- Submit your ideas for map improvements \n- Rent a space for your team \n- Request custom designs \n\nWalk up to the whiteboard in the room to submit your suggestions or customization requests!"
-                        }, 
-                        {
-                         "name":"messageTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"areas",
                  "visible":true,
                  "width":254,
                  "x":1699,
