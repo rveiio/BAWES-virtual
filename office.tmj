@@ -556,7 +556,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bawes.notion.site\/1ac82a9be076800bb3fec0a738977d3e?pvs=105"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfelf7A1hfKasNXiRF1zPj4tSZcU7BT30DL-IwQZCjzO1DvLg\/viewform?usp=header"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -711,7 +711,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\nhttps:\/\/bawes.notion.site\/1ac82a9be07680238a20cad62fde31ea?pvs=105"
+                 "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSfvQLpnrmpEA8wt3mCIAMUsdZEIYQX_OKL9L4jZwmCaDbNn8g\/viewform?usp=header"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
