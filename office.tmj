@@ -3447,7 +3447,29 @@
          "draworder":"topdown",
          "id":83,
          "name":"Info",
-         "objects":[],
+         "objects":[
+                {
+                 "height":124,
+                 "id":37,
+                 "name":"popup",
+                 "properties":[
+                        {
+                         "name":"popupText",
+                         "type":"string",
+                         "value":"Reem Hasib\nGraphic Designer | UI\/UX Designer | Student"
+                        }, 
+                        {
+                         "name":"type",
+                         "type":"string",
+                         "value":"popup"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":156.666666666667,
+                 "x":1186,
+                 "y":3011.33333333333
+                }],
          "opacity":1,
          "properties":[
                 {
@@ -4321,7 +4343,7 @@
          "y":0
         }],
  "nextlayerid":92,
- "nextobjectid":37,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "properties":[
         {
