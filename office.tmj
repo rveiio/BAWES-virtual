@@ -3454,14 +3454,14 @@
                  "name":"popup",
                  "properties":[
                         {
-                         "name":"popupText",
+                         "name":"message",
                          "type":"string",
-                         "value":"Reem Hasib\nGraphic Designer | UI\/UX Designer | Student"
+                         "value":"Reem Hasib"
                         }, 
                         {
-                         "name":"type",
+                         "name":"messageTrigger",
                          "type":"string",
-                         "value":"popup"
+                         "value":"onaction"
                         }],
                  "rotation":0,
                  "type":"",
