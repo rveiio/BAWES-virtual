@@ -1888,12 +1888,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"Creative Space for Freelancers"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"creativear.png"
+         "value":"conference.png"
         }, 
         {
          "name":"mapName",
