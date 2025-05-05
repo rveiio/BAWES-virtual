@@ -5713,6 +5713,43 @@
          "spacing":0,
          "tilecount":800,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":500,
+                         "tileid":482
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":483
+                        }],
+                 "id":482
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":500,
+                         "tileid":498
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":499
+                        }],
+                 "id":498
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":500,
+                         "tileid":514
+                        }, 
+                        {
+                         "duration":500,
+                         "tileid":515
+                        }],
+                 "id":514
+                }],
          "tilewidth":32
         }, 
         {
