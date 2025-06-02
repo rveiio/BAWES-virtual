@@ -1119,17 +1119,17 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Welcome to Paw App!"
+         "value":"Welcome to Game Zone! You can work on your personal game projects here, test others games and much more."
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"pawapp.png"
+         "value":"Gamedev.png"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Onboarding"
+         "value":"Game Dev Map"
         }, 
         {
          "name":"script",
